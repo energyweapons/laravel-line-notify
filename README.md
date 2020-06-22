@@ -12,7 +12,7 @@ LINE Notify Provider for Laravel 7.x Notification.
 1. install package
 
     ```
-    $ composer require hinaloe/laravel-line-notify
+    $ composer require energyweapons/laravel-line-notify
     ```
 
 1. Add `Energyweapons\LineNotify\LineNotifyServiceProvider` to `config/app.php` or like.
