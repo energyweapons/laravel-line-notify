@@ -38,7 +38,7 @@ LINE Notify Provider for Laravel 7.x Notification.
         */
        protected function routeNotificationForLine()
        {
-           return 'Put you token here';
+           return 'ADD_YOUR_ACCESS_TOKEN_HERE';
        }
    }
     
