@@ -1,8 +1,8 @@
 <?php
 
-namespace Hinaloe\LineNotify;
+namespace Energyweapons\LineNotify;
 
-use Hinaloe\LineNotify\Channel\LineChannel;
+use Energyweapons\LineNotify\Channel\LineChannel;
 use Illuminate\Notifications\ChannelManager;
 use Illuminate\Support\ServiceProvider;
 

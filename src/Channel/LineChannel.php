@@ -1,9 +1,9 @@
 <?php
 
-namespace Hinaloe\LineNotify\Channel;
+namespace Energyweapons\LineNotify\Channel;
 
 use GuzzleHttp\Client as HttpClient;
-use Hinaloe\LineNotify\Message\LineMessage;
+use Energyweapons\LineNotify\Message\LineMessage;
 use Illuminate\Notifications\Notification;
 
 class LineChannel

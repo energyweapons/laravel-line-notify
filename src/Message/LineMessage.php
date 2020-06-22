@@ -1,6 +1,6 @@
 <?php
 
-namespace Hinaloe\LineNotify\Message;
+namespace Energyweapons\LineNotify\Message;
 
 /**
  * Class LineMessage
