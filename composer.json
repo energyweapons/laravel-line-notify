@@ -1,0 +1,24 @@
+{
+  "name": "energyweapons/laravel-line-notify",
+  "description": "LINE Notify Provider for Laravel 7 notification",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "energyweapons",
+      "email": "energyweapons@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2.5",
+    "laravel/framework": "^7",
+    "illuminate/notifications": "^7.16.1",
+    "guzzlehttp/guzzle": "~6.5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Energyweapons\\LineNotify\\": "src/"
+    }
+  }
+}
