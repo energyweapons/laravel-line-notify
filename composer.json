@@ -12,9 +12,7 @@
   ],
   "require": {
     "php": ">=7.2.5",
-    "laravel/framework": "^7",
-    "illuminate/notifications": "^7",
-    "guzzlehttp/guzzle": "~6"
+    "laravel/framework": "^7"
   },
   "autoload": {
     "psr-4": {
